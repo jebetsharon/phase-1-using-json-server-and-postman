@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "regNo": 1000,
+      "name": "Sharon Kosgei",
+      "amountPaid": 500,
+      "id": "1"
+    },
+    {
+      "regNo": 2758,
+      "name": "Jude Abi",
+      "amountPaid": 1000,
+      "id": "2"
+    },
+    {
+      "regNo": 3652,
+      "name": "Lyne B",
+      "amountPaid": 1200,
+      "id": "3"
+    },
+    {
+      "regNo": 1689,
+      "name": "Joseph Ian",
+      "amountPaid": 2500,
+      "id": "4"
+    },
+    {
+      "id": "5761"
+    },
+    {
+      "id": "436c"
+    }
+  ]
+}
